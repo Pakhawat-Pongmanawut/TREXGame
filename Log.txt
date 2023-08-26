@@ -1,0 +1,5 @@
+1. Add Setup Code 
+2. Edit move file to correct folder 
+3. REMOVE player.cs 
+4. REMOVE project assests 
+5. ADD log.txt correct assets for spawning objects 
